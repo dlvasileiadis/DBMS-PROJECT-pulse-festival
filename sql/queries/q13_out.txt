@@ -1,0 +1,7 @@
+"artist_name","continent_count","continents_participated"
+"Alex Cruz","3","Africa, Europe, North America"
+"Carlos Howell","3","Africa, Asia, South America"
+"Dana Kim","3","Africa, Asia, Europe"
+"David Woodard","3","Africa, Asia, Europe"
+"Jennifer Fuller","3","Africa, North America, South America"
+"Tanner Esparza","3","Africa, Asia, Europe"

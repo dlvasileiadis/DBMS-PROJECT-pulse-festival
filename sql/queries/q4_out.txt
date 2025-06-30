@@ -1,0 +1,2 @@
+"avg_artist_rating","avg_overall_impression"
+"2.0476","2.0000"

@@ -1,0 +1,4 @@
+"genre1","genre2","pair_count"
+"Country","Rock","3"
+"Metal","Pop","3"
+"Country","Latin","2"

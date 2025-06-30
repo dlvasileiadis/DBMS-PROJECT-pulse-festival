@@ -1,0 +1,6 @@
+"artist_name","festival_year","warmup_performances"
+"Caroline Keith",2017,"3"
+"Megan Scott",2017,"3"
+"Sandra Williams",2017,"3"
+"Tanner Esparza",2017,"3"
+"William Leblanc",2017,"3"

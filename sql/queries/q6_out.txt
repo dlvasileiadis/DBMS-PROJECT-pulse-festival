@@ -1,0 +1,7 @@
+"event_id","event_name","event_date","total_reviews_made","avg_review_score"
+27,"Event at Venue 18 on 2022-08-12","2022-08-12","1","1.8"
+14,"Event at Venue 8 on 2019-08-13","2019-08-13","1","2.2"
+5,"Event at Venue 2 on 2017-08-13","2017-08-13","1","2.0"
+4,"Event at Venue 1 on 2017-08-13","2017-08-13","1","2.4"
+2,"Event at Venue 2 on 2017-08-12","2017-08-12","1","2.2"
+1,"Event at Venue 1 on 2017-08-12","2017-08-12","1","1.8"

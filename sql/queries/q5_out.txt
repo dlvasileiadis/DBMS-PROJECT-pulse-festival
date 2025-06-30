@@ -1,0 +1,6 @@
+"artist_name","age","festivals_participated"
+"Brittney Alvarez","23","3"
+"David Woodard","24","3"
+"Jennifer Fuller","21","3"
+"Linda Hester","24","3"
+"Victoria Campbell","24","3"
