@@ -35,4 +35,6 @@ Welcome to the Pulse University Festival Database! This project models and manag
 - Nikolaos Apostolopoulos
 - Dimitrios Vasiliadis
 
+- ### This project was marked with 9/10
+
 
