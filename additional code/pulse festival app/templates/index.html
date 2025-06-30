@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pulse Festival - Queries</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Pulse Festival Queries</h1>
+
+{% for i in range(1, 16) %}
+    <form action="{{ url_for('execute_query', query_id=i) }}" method="get" style="margin-bottom: 20px;">
+        <button type="submit">QUERY {{ i }}</button>
+    </form>
+{% endfor %}
+
+</body>
+</html>
