@@ -33,7 +33,7 @@ Welcome to the Pulse University Festival Database! This project models and manag
 ## Contributors
 
 - Nikolaos Apostolopoulos
-- Dimitrios Vasiliadis
+- Dimitrios Vasileiadis
 
 
 
